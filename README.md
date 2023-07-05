@@ -1,1 +1,1 @@
-# android-basics-explained-with-jetpack-compose
+# Android Basics Explained with Jetpack Compose
